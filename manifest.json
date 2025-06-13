@@ -1,0 +1,9 @@
+{
+  "name": "Instituto Jovem Solidário",
+  "short_name": "JovemSolidário",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "PWA do Instituto Jovem Solidário",
+  "icons": []
+}
